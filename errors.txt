@@ -1,0 +1,4 @@
+Uncaught TypeError: Failed to resolve module specifier "@thatopen/components". Relative references must start with either "/", "./", or "../".
+
+***Before to target the files directly
+
